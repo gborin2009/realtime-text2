@@ -1,0 +1,30 @@
+.heading{
+background-color: pink;
+color: black;
+font-size:23px;
+width:100%;
+margin: 0px;
+box-shadow: 10px 10px 10px gold;
+}
+.note{
+    font-size: 15px;
+    color: black;
+}
+.copy_right_footer{
+    position:fixed;
+    color:gold ;
+    bottom: 0;
+    width:100%;
+    background-color: rgb(29, 27, 27);
+    line-height: 3;
+    text-align: center;
+
+}
+canvas{
+    border: 5px solid snow;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px gold;
+}
+body{
+    background-color:rgb(2, 2, 2);
+}
